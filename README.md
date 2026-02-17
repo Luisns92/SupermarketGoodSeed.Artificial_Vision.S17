@@ -1,7 +1,7 @@
 # Supermarket Good Seed, Visión artificial
 
 📖 Resúmen:  
- Entrenar un modelo capaz de identificar por medio de una imagen si el usuario es mayor de edad.
+ Entrenar un modelo capaz de identificar por medio de una imagen si el usuario es mayor de edad.  
 .  
 .  
 .   
